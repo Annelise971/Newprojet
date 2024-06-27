@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		754047E52C2D977200918286 /* Mes_projetsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047E42C2D977100918286 /* Mes_projetsApp.swift */; };
+		754047E72C2D979600918286 /* Mes projets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047E62C2D979600918286 /* Mes projets.swift */; };
+		754047E92C2D979C00918286 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047E82C2D979C00918286 /* ActivityView.swift */; };
+		754047EB2C2D97A700918286 /* OneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047EA2C2D97A700918286 /* OneView.swift */; };
+		754047ED2C2D97AD00918286 /* MuseePrado.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047EC2C2D97AD00918286 /* MuseePrado.swift */; };
+		754047EF2C2D97B100918286 /* ActivitySan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047EE2C2D97B100918286 /* ActivitySan.swift */; };
+		754047F12C2D97BE00918286 /* ActivityBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047F02C2D97BE00918286 /* ActivityBar.swift */; };
+		754047F32C2D97C300918286 /* ActivitéMarr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047F22C2D97C300918286 /* ActivitéMarr.swift */; };
+		754047F52C2D97CD00918286 /* ActivitéBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047F42C2D97CD00918286 /* ActivitéBar.swift */; };
+		754047F72C2D97F100918286 /* ActivitéMad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047F62C2D97F100918286 /* ActivitéMad.swift */; };
+		754047F92C2D97F600918286 /* MesVoyagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047F82C2D97F600918286 /* MesVoyagesView.swift */; };
+		754047FB2C2D97FA00918286 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754047FA2C2D97FA00918286 /* TabView.swift */; };
 		75C95B222C0DCA0400041EBD /* NewprojetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75C95B212C0DCA0400041EBD /* NewprojetApp.swift */; };
 		75C95B242C0DCA0400041EBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75C95B232C0DCA0400041EBD /* ContentView.swift */; };
 		75C95B262C0DCA0400041EBD /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75C95B252C0DCA0400041EBD /* Item.swift */; };
@@ -35,6 +47,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		754047E42C2D977100918286 /* Mes_projetsApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Mes_projetsApp.swift; path = "../../Mes projets/Mes projets/Mes_projetsApp.swift"; sourceTree = "<group>"; };
+		754047E62C2D979600918286 /* Mes projets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Mes projets.swift"; path = "../../Mes projets/Mes projets/Mes projets.swift"; sourceTree = "<group>"; };
+		754047E82C2D979C00918286 /* ActivityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ActivityView.swift; path = "../../Mes projets/Mes projets/ActivityView.swift"; sourceTree = "<group>"; };
+		754047EA2C2D97A700918286 /* OneView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OneView.swift; path = "../../Mes projets/Mes projets/OneView.swift"; sourceTree = "<group>"; };
+		754047EC2C2D97AD00918286 /* MuseePrado.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MuseePrado.swift; path = "../../Mes projets/Mes projets/MuseePrado.swift"; sourceTree = "<group>"; };
+		754047EE2C2D97B100918286 /* ActivitySan.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ActivitySan.swift; path = "../../Mes projets/Mes projets/ActivitySan.swift"; sourceTree = "<group>"; };
+		754047F02C2D97BE00918286 /* ActivityBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ActivityBar.swift; path = "../../Mes projets/Mes projets/ActivityBar.swift"; sourceTree = "<group>"; };
+		754047F22C2D97C300918286 /* ActivitéMarr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ActivitéMarr.swift"; path = "../../Mes projets/Mes projets/ActivitéMarr.swift"; sourceTree = "<group>"; };
+		754047F42C2D97CD00918286 /* ActivitéBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ActivitéBar.swift"; path = "../../Mes projets/Mes projets/ActivitéBar.swift"; sourceTree = "<group>"; };
+		754047F62C2D97F100918286 /* ActivitéMad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ActivitéMad.swift"; path = "../../Mes projets/Mes projets/ActivitéMad.swift"; sourceTree = "<group>"; };
+		754047F82C2D97F600918286 /* MesVoyagesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MesVoyagesView.swift; path = "../../Mes projets/Mes projets/MesVoyagesView.swift"; sourceTree = "<group>"; };
+		754047FA2C2D97FA00918286 /* TabView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TabView.swift; path = "../../Mes projets/Mes projets/TabView.swift"; sourceTree = "<group>"; };
 		75C95B1E2C0DCA0400041EBD /* Newprojet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Newprojet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75C95B212C0DCA0400041EBD /* NewprojetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewprojetApp.swift; sourceTree = "<group>"; };
 		75C95B232C0DCA0400041EBD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,8 +120,20 @@
 		75C95B202C0DCA0400041EBD /* Newprojet */ = {
 			isa = PBXGroup;
 			children = (
-				75C95B212C0DCA0400041EBD /* NewprojetApp.swift */,
 				75C95B232C0DCA0400041EBD /* ContentView.swift */,
+				75C95B212C0DCA0400041EBD /* NewprojetApp.swift */,
+				754047E42C2D977100918286 /* Mes_projetsApp.swift */,
+				754047E62C2D979600918286 /* Mes projets.swift */,
+				754047EA2C2D97A700918286 /* OneView.swift */,
+				754047E82C2D979C00918286 /* ActivityView.swift */,
+				754047EC2C2D97AD00918286 /* MuseePrado.swift */,
+				754047EE2C2D97B100918286 /* ActivitySan.swift */,
+				754047F02C2D97BE00918286 /* ActivityBar.swift */,
+				754047F22C2D97C300918286 /* ActivitéMarr.swift */,
+				754047F42C2D97CD00918286 /* ActivitéBar.swift */,
+				754047F62C2D97F100918286 /* ActivitéMad.swift */,
+				754047F82C2D97F600918286 /* MesVoyagesView.swift */,
+				754047FA2C2D97FA00918286 /* TabView.swift */,
 				75C95B252C0DCA0400041EBD /* Item.swift */,
 				75C95B272C0DCA0500041EBD /* Assets.xcassets */,
 				75C95B292C0DCA0500041EBD /* Preview Content */,
@@ -260,9 +296,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				754047ED2C2D97AD00918286 /* MuseePrado.swift in Sources */,
 				75C95B242C0DCA0400041EBD /* ContentView.swift in Sources */,
+				754047F32C2D97C300918286 /* ActivitéMarr.swift in Sources */,
 				75C95B262C0DCA0400041EBD /* Item.swift in Sources */,
 				75C95B222C0DCA0400041EBD /* NewprojetApp.swift in Sources */,
+				754047EB2C2D97A700918286 /* OneView.swift in Sources */,
+				754047E72C2D979600918286 /* Mes projets.swift in Sources */,
+				754047E52C2D977200918286 /* Mes_projetsApp.swift in Sources */,
+				754047F52C2D97CD00918286 /* ActivitéBar.swift in Sources */,
+				754047F72C2D97F100918286 /* ActivitéMad.swift in Sources */,
+				754047FB2C2D97FA00918286 /* TabView.swift in Sources */,
+				754047EF2C2D97B100918286 /* ActivitySan.swift in Sources */,
+				754047F92C2D97F600918286 /* MesVoyagesView.swift in Sources */,
+				754047F12C2D97BE00918286 /* ActivityBar.swift in Sources */,
+				754047E92C2D979C00918286 /* ActivityView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

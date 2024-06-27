@@ -8,8 +8,7 @@
 import SwiftUI
 import SwiftData
 
-@main
-struct NewprojetApp: App {
+@main  struct NewprojetApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,
